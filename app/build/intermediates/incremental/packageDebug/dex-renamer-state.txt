@@ -1,0 +1,4 @@
+#Wed Nov 13 12:03:38 KST 2019
+base.0=C\:\\Users\\subtask\\Documents\\chat\\chat\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\subtask\\Documents\\chat\\chat\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

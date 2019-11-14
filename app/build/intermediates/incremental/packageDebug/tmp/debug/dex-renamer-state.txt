@@ -1,0 +1,4 @@
+#Thu Nov 14 16:46:46 KST 2019
+base.0=C\:\\Users\\subtask\\Documents\\chat\\chat\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
